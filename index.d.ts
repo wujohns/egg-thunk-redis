@@ -1,3 +1,5 @@
+
+
 declare module 'egg' {
   interface Application {
     thunkRedis: any;
